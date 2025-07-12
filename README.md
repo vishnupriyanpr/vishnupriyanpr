@@ -28,7 +28,7 @@
 - **AI Medical Report Summarizer** – Upload PDFs/images → receive concise AI‑generated summaries.  
   `OCR · HuggingFace · Flask · BERT`
 
-- **PharmaScan Public** – 🧠💊 Medicine‑strip scanner powered by **Gemini AI** — snap a pic and identify medicines instantly, no typing or guesswork.  
+- **PharmaScan** –  Medicine‑strip scanner powered by **Gemini AI** — snap a pic and identify medicines instantly, no typing or guesswork.  
   `Flutter · Gemini Pro Vision · FastAPI · OpenCV`
 
 
