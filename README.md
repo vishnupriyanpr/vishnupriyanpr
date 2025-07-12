@@ -10,14 +10,14 @@
 
 ## 🚀 Projects I’m Building
 
+- **OXOCARE (🏆 Hackathon Winner)** – OCR-first vault that secures & summarizes medical records with AI.  
+  `OpenCV · Tesseract · LangChain · AES-256 · Flask`
+
 - **Verve** – AI-powered mobile assistant helping chronic-illness warriors manage meds & vitals.  
   `Flutter · FastAPI · Transformers · LangChain`
 
 - **University Placement Insights** – Dashboard turning placement data into clear insights for students & TPOs.  
   `Streamlit · pandas · Plotly`
-
-- **OXOCARE (🏆 Hackathon Winner)** – OCR-first vault that secures & summarizes medical records with AI.  
-  `OpenCV · Tesseract · LangChain · AES-256 · Flask`
 
 - **Cardiac‑Care** – Heart‑health suite featuring ECG ML, triage chatbot, and real‑time alerts.  
   `React · Flask · TensorFlow · Twilio`
