@@ -46,15 +46,20 @@
 
 ---
 
-## 🔄 Build → Measure → Learn
+**## 🔄 Crafting Products, Not Just Prototypes**
 
-1. **Ideate** – spot real‑world pain points worth fixing.  
-2. **Prototype** – hack a proof‑of‑concept in 48 h.  
-3. **Launch** – ship an MVP and gather user data fast.  
-4. **Refine** – iterate with feedback & metrics.  
-5. **Scale** – harden infra and add AI super‑powers.
+```bash
+Every idea begins with friction.  
+I follow it—observe, decode, and distill the chaos.  
+From mockups to models, it’s all one continuum.  
+What matters isn't just shipping fast—but shipping what matters.  
+So I listen, I tweak, I scale.  
+And then I start again—smarter.
+```
 
-*Repeat until awesome.*
+### **_Blueprints set boundaries. I build from instinct and intent._**
+
+
 
 ---
 
