@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 Projects I’m Building
+## Systems I’ve Set in Motion 🚀⚙️ 
 
 - **OXOCARE (🏆 Hackathon Winner)** – OCR-first vault that secures & summarizes medical records with AI.  
   `OpenCV · Tesseract · LangChain · AES-256 · Flask`
@@ -63,14 +63,6 @@
 
 *Games are my logic lab. I love to mod engines, reverse algorithms, and sometimes build bots that beat me at my own game.*
 
----
-
-## 🚗 Under‑the‑Hood Corner
-
-- Tuning ECU maps with data logs  
-- FFT‑based exhaust note analysis  
-- Dream build: AWD EV swap + ML traction control  
-- Bridging software logic with mechanical motion
 
 ---
 
