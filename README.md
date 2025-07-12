@@ -9,12 +9,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+Tech+Builder+%7C+Gamer+%7C+Car+Nerd;Turning+AI+Concepts+Into+Impact.;Fueled+by+Curiosity+%2B+Code+%2B+Clean+Designs" alt="Typing animation" />
 
-  <a href="https://leetcode.com/u/jTixpIbM2z/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-  <a href="https://www.hackerrank.com/vishnupriyan_pr">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
-  </a>
 
 </p>
 
@@ -22,20 +16,20 @@
 
 ## 🚀 Projects I’m Building
 
-- **Verve** – AI-powered mobile assistant helping chronic-illness warriors manage meds & vitals.  
-  `Flutter · FastAPI · Transformers · LangChain`
-
-- **University Placement Insights** – Dashboard turning placement data into clear insights for students & TPOs.  
-  `Streamlit · pandas · Plotly`
-
 - **OXOCARE (🏆 Hackathon Winner)** – OCR-first vault that secures & summarizes medical records with AI.  
   `OpenCV · Tesseract · LangChain · AES-256 · Flask`
+  
+- **Verve** – AI-powered mobile assistant helping chronic-illness warriors manage meds & vitals.  
+  `Flutter · FastAPI · Transformers · LangChain`
 
 - **Cardiac‑Care** – Heart‑health suite featuring ECG ML, triage chatbot, and real‑time alerts.  
   `React · Flask · TensorFlow · Twilio`
 
 - **AI Medical Report Summarizer** – Upload PDFs/images → receive concise AI‑generated summaries.  
   `OCR · HuggingFace · Flask · BERT`
+
+- **University Placement Insights** – Dashboard turning placement data into clear insights for students & TPOs.  
+  `Streamlit · pandas · Plotly`
 
 ---
 
@@ -85,41 +79,21 @@ graph TD;
   <img src="https://github-readme-stats.vercel.app/api?username=vishnupriyanpr183207&show_icons=true&theme=radical&count_private=true" height="180" />
   <img src="https://streak-stats.demolab.com?user=vishnupriyanpr183207&theme=radical&hide_border=true" height="180" />
 
-  <a href="https://leetcode.com/u/jTixpIbM2z/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-  <a href="https://www.hackerrank.com/vishnupriyan_pr">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
-  </a>
+  
 
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnupriyanpr183207&layout=compact&theme=radical&langs_count=10" />
 
-  <a href="https://leetcode.com/u/jTixpIbM2z/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-  <a href="https://www.hackerrank.com/vishnupriyan_pr">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
-  </a>
+  
 
 </p>
 
 
 ---
 
-## 🧠 Competitive Stats
 
-<p align="center">
-  <a href="https://leetcode.com/u/jTixpIbM2z/">
-    <img src="https://leetcard.jacoblin.cool/jTixpIbM2z?theme=dark&font=JetBrains+Mono&ext=activity" alt="LeetCode Stats" />
-  </a>
-  <br />
-  <a href="https://www.hackerrank.com/vishnupriyan_pr">
-    <img src="https://github-readme-hackerrank-stats.vercel.app/api?husername=vishnupriyan_pr&theme=dark" alt="HackerRank Stats" />
-  </a>
-</p>
 ---
 
 ## 🤝 Connect With Me
@@ -155,11 +129,6 @@ I build code that matters, explore ideas fearlessly, and aim to leave tech a bit
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=vishnupriyanpr183207.readme" alt="Visitor badge"/>
 
-  <a href="https://leetcode.com/u/jTixpIbM2z/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-  <a href="https://www.hackerrank.com/vishnupriyan_pr">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
-  </a>
+  
 
 </p>
