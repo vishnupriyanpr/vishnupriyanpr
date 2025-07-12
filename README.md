@@ -7,10 +7,10 @@
 <h1 align="center">Hey, I'm Vishnupriyan P R 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+Tech+Builder+%7C+Gamer+%7C+Car+Nerd;Turning+AI+Concepts+Into+Impact.;Fueled+by+Curiosity+%2B+Code+%2B+Clean+Designs" alt="Typing animation" />
-
-
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=AI+Engineer+%7C+Tech+Builder+%7C+Gamer+%7C+Car+Nerd;Code%2C+cars%2C+and+caffeine+kept+me+going.+I+just+never+slowed+down;Building+Bold+Projects+With+Purpose.;Turning+AI+Concepts+Into+Impact.;Fueled+by+Curiosity+%2B+Code+%2B+Clean+Designs" alt="Typing animation" />
 </p>
+
+
 
 ---
 
@@ -42,7 +42,7 @@
 | **Backend**     | Flask · FastAPI · PostgreSQL · Redis · GraphQL  | Secure, scalable APIs                |
 | **Frontend**    | React · Next.js · Flutter · Tailwind            | Pixel‑perfect, accessible UIs        |
 | **Data / Viz**  | pandas · Plotly · Streamlit · Superset          | Story‑driven visual dashboards       |
-| **DevOps**      | Docker · GitHub Actions · Vercel · GCP          | Fast CI/CD & zero‑downtime deploys   |
+| **DevOps**      | Docker · GitHub · Gradio · Vercel · GCP · AWS   | Fast CI/CD & zero‑downtime deploys   |
 
 ---
 
@@ -61,7 +61,7 @@
 
 ## 🎮 Gamer Mode
 
-*Games are my logic lab. I mod engines, reverse algorithms, and sometimes build bots that beat me at my own game.*
+*Games are my logic lab. I love to mod engines, reverse algorithms, and sometimes build bots that beat me at my own game.*
 
 ---
 
@@ -118,7 +118,7 @@
 
 ## 💡 Philosophy
 
-> **Stay Curious · Stay Chill · Stay Relentless**
+> **What’s the Use with Bags of Money, When Your Heart Is Empty...**
 
 I build code that matters, explore ideas fearlessly, and aim to leave tech a bit more futuristic than I found it.
 
