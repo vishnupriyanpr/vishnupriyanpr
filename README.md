@@ -1,3 +1,7 @@
+<!-- ████████████████████████████████████████████████████████████ -->
+<!-- 🤖 WELCOME TO MY GITHUB PROFILE README (auto-generated)     -->
+<!-- ████████████████████████████████████████████████████████████ -->
+
 <!-- Vishnupriyan P R's GitHub Profile README -->
 
 <h1 align="center">Hey, I'm Vishnupriyan P R 👋</h1>
@@ -102,6 +106,20 @@ graph TD;
 
 </p>
 
+
+---
+
+## 🧠 Competitive Stats
+
+<p align="center">
+  <a href="https://leetcode.com/u/jTixpIbM2z/">
+    <img src="https://leetcard.jacoblin.cool/jTixpIbM2z?theme=dark&font=JetBrains+Mono&ext=activity" alt="LeetCode Stats" />
+  </a>
+  <br />
+  <a href="https://www.hackerrank.com/vishnupriyan_pr">
+    <img src="https://github-readme-hackerrank-stats.vercel.app/api?husername=vishnupriyan_pr&theme=dark" alt="HackerRank Stats" />
+  </a>
+</p>
 ---
 
 ## 🤝 Connect With Me
