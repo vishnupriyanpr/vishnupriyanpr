@@ -28,8 +28,9 @@
 - **AI Medical Report Summarizer** – Upload PDFs/images → receive concise AI‑generated summaries.  
   `OCR · HuggingFace · Flask · BERT`
 
-- **University Placement Insights** – Dashboard turning placement data into clear insights for students & TPOs.  
-  `Streamlit · pandas · Plotly`
+- **PharmaScan Public** – 🧠💊 Medicine‑strip scanner powered by **Gemini AI** — snap a pic and identify medicines instantly, no typing or guesswork.  
+  `Flutter · Gemini Pro Vision · FastAPI · OpenCV`
+
 
 ---
 
@@ -45,18 +46,18 @@
 
 ---
 
-## 🌱 Growth Loop
+## 🔄 Build → Measure → Learn
 
-```mermaid
-graph TD;
-  A(Read Research Papers) --> B(Build Quirky Prototypes);
-  B --> C(Break & Iterate);
-  C --> D(Ship MVPs);
-  D --> E(Collect Feedback);
-  E --> B;
-```
+1. **Ideate** – spot real‑world pain points worth fixing.  
+2. **Prototype** – hack a proof‑of‑concept in 48 h.  
+3. **Launch** – ship an MVP and gather user data fast.  
+4. **Refine** – iterate with feedback & metrics.  
+5. **Scale** – harden infra and add AI super‑powers.
+
+*Repeat until awesome.*
 
 ---
+
 
 ## 🎮 Gamer Mode
 
@@ -99,15 +100,15 @@ graph TD;
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="mailto:vishnupriyan.ai@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/vishnupriyanpr"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:priyanv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/vishnupriyan-p-r"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/vishnupriyanpr"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X/Twitter" /></a>
   <a href="https://vishnupriyan.dev"><img src="https://img.shields.io/badge/Portfolio-Coming_Soon-black?style=for-the-badge&logo=vercel" alt="Portfolio" /></a>
 
   <a href="https://leetcode.com/u/jTixpIbM2z/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-  <a href="https://www.hackerrank.com/vishnupriyan_pr">
+  <a href="https://www.hackerrank.com/vishnupriyan_pr2">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
   </a>
 
