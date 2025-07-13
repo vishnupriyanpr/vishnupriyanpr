@@ -46,7 +46,7 @@
 
 ---
 
-## ** 🔄 Crafting Products, Not Just Prototypes**
+##  Crafting Products, Not Just Prototypes 🔄
 
 ```bash
 Every idea begins with friction.  
