@@ -86,7 +86,6 @@ const vishnu = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnupriyanpr183207&layout=compact&theme=radical&langs_count=10" />
 
 <br>
 
@@ -95,8 +94,8 @@ const vishnu = {
 
 
 <h2 align="left"> I Code With : </h2>
-<hr />
-<p align="left">
+
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="36" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36" alt="C++" />
@@ -134,7 +133,7 @@ const vishnu = {
 
 
 
-## 🤝 Connect With Me
+##  Connect With Me 🤝
 
 <p align="center">
   <a href="mailto:priyanv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
@@ -150,12 +149,16 @@ const vishnu = {
   </a>
 
 </p>
-ELSE...
+
+### ELSE
+{
 
 ## Just put this 👇 in your CMD to connect with me :)
 ```bash
 npx vishnupriyan
 ```
+
+}
 <p></p>
 <p></p>
 
