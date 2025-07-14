@@ -74,7 +74,7 @@ const vishnu = {
 
 
 
-## 📈 GitHub Stats
+## My Stats-n-Streaks 💻📈
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vishnupriyanpr183207&show_icons=true&theme=radical&count_private=true" height="180" />
