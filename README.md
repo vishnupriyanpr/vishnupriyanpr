@@ -126,11 +126,7 @@ npx vishnupriyan
 <p></p>
 
 
-## 💡 Philosophy
 
-> **What’s the Use with Bags of Money, When Your Heart Is Empty...**
-
-I build code that matters, explore ideas fearlessly, and aim to leave tech a bit more futuristic than I found it.
 
 ---
 
