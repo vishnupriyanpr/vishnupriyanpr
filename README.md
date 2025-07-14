@@ -32,7 +32,8 @@
   `Flutter · Gemini Pro Vision · FastAPI · OpenCV`
 
 
----
+<p></p>
+
 
 ##  Skill Fusion 🧠
 
@@ -62,7 +63,7 @@ const vishnu = {
 };
 
 ```
----
+<p></p>
 
 ##  Crafting Products, Not Just Prototypes 🔄
 
@@ -82,12 +83,6 @@ And then I start again—smarter.
 ---
 
 
-## 🎮 Gamer Mode
-
-*Games are my logic lab. I love to mod engines, reverse algorithms, and sometimes build bots that beat me at my own game.*
-
-
----
 
 ## 📈 GitHub Stats
 
@@ -105,7 +100,6 @@ And then I start again—smarter.
   
 
 </p>
-
 
 
 
@@ -129,7 +123,8 @@ And then I start again—smarter.
 
 </p>
 
----
+<p></p>
+
 
 ## 💡 Philosophy
 
