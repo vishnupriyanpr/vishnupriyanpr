@@ -67,18 +67,6 @@ const vishnu = {
 <p></p>
 <p></p>
 
-##  Crafting Products, Not Just Prototypes 🔄
-
-```bash
-Every idea begins with friction.  
-I follow it—observe, decode, and distill the chaos.  
-From mockups to models, it’s all one continuum.  
-What matters isn't just shipping fast—but shipping what matters.  
-So I listen, I tweak, I scale.  
-And then I start again—smarter.
-```
-
-### **_Blueprints set boundaries. I build from instinct and intent._**
 
 
 
