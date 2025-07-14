@@ -125,7 +125,12 @@ And then I start again—smarter.
   </a>
 
 </p>
+# ELSE...
 
+Just put this in your CMD 👇
+```bash
+npx vishnupriyan
+```
 <p></p>
 <p></p>
 
