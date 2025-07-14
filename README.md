@@ -34,16 +34,34 @@
 
 ---
 
-## 🧠 Skill Fusion
+##  Skill Fusion 🧠
 
-| Area            | Tools & Frameworks                              | Superpowers                          |
-| --------------- | ----------------------------------------------- | ------------------------------------ |
-| **AI / ML**     | PyTorch · TensorFlow · HuggingFace · LangChain  | Real‑time inference, AI agents       |
-| **Backend**     | Flask · FastAPI · PostgreSQL · Redis · GraphQL  | Secure, scalable APIs                |
-| **Frontend**    | React · Next.js · Flutter · Tailwind            | Pixel‑perfect, accessible UIs        |
-| **Data / Viz**  | pandas · Plotly · Streamlit · Superset          | Story‑driven visual dashboards       |
-| **DevOps**      | Docker · GitHub · Gradio · Vercel · GCP · AWS   | Fast CI/CD & zero‑downtime deploys   |
+```bash
+const vishnu = {
+  pronouns: "He" | "Him",
+  grind: ["AI", "Full‑Stack", "Machine Learning"],
+  languages: ["Python","C",C++", "Dart/Flutter"],
+  passions: ["AI for healthcare", "EV mods", "Game modding", "Car Tech"],
+  stack: {
+    AI_ML: {
+      frameworks: ["TensorFlow", "PyTorch", "LangChain"],
+      tools: ["HuggingFace", "OpenCV", "YOLO"]
+    },
+    backend: ["Flask", "FastAPI", "PostgreSQL", "Redis", "GraphQL"],
+    frontend: ["React", "Next.js", "Flutter", "Kotlin"],
+    data_viz: ["pandas", "Plotly", "Streamlit", "Superset"],
+    devops: ["Docker", "CI/CD", "GCP", "AWS", "Gradio", "Vercel"]
+  },
+  buildPhilosophy: [
+    "From mockups to models — one continuum",
+    "Every idea starts with friction",
+    "Shipping what matters, not just fast"
+  ],
+  ride: "Dreaming AWD EV swap + ML traction control",
+  motto: "Code code, cars & caffeine—never slowing down"
+};
 
+```
 ---
 
 ##  Crafting Products, Not Just Prototypes 🔄
