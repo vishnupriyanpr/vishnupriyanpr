@@ -86,7 +86,6 @@ const vishnu = {
 </p>
 
 <p align="center">
-
 <br>
 
 </br>
