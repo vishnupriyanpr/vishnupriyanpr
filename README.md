@@ -66,7 +66,6 @@ const vishnu = {
 
 ```
 <br>
-
 </br>
 
 
@@ -78,8 +77,8 @@ const vishnu = {
 ## My Stats 💻📈
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishnupriyanpr183207&show_icons=true&theme=radical&count_private=true" height="180" />
-  <img src="https://streak-stats.demolab.com?user=vishnupriyanpr183207&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vishnupriyanpr183207&show_icons=true&theme=radical&count_private=true" height="160" />
+  <img src="https://streak-stats.demolab.com?user=vishnupriyanpr183207&theme=radical&hide_border=true" height="160" />
 
   
 
@@ -127,7 +126,6 @@ const vishnu = {
 
 
 <br>
-
 </br>
 
 
