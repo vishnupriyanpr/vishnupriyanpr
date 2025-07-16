@@ -34,7 +34,6 @@
 
 <p></p>
 <br>
-
 </br>
 
 ##  About ME :) 
@@ -65,8 +64,7 @@ const vishnu = {
 };
 
 ```
-<br>
-</br>
+<br></br>
 
 
 
@@ -84,10 +82,7 @@ const vishnu = {
 
 </p>
 
-<p align="center">
-<br>
-
-</br>
+<br></br>
 
 
 
@@ -125,8 +120,7 @@ const vishnu = {
 
 
 
-<br>
-</br>
+<br></br>
 
 
 
