@@ -20,13 +20,12 @@
 <table>
   <tr>
     <td>
-      <img width="300" height="3000" alt="download (1)" src="https://github.com/user-attachments/assets/b048ac3c-ccb9-4a65-98b2-07bdb34045ea" />
+      <img width="1500" height="3400" alt="download (1)" src="https://github.com/user-attachments/assets/b048ac3c-ccb9-4a65-98b2-07bdb34045ea" />
     </td>
     <td>
 
 <pre>
 <code>
-
 <span style="color:#f92672">const</span> <span style="color:#66d9ef">vishnu</span> = {
   pronouns: <span style="color:#e6db74">"He | Him"</span>,
   grind: [<span style="color:#e6db74">"AI"</span>, <span style="color:#e6db74">"Full‑Stack"</span>, <span style="color:#e6db74">"Machine Learning"</span>],
@@ -50,10 +49,8 @@
   ride: <span style="color:#e6db74">"Dreaming AWD EV swap + ML traction control"</span>,
   motto: <span style="color:#e6db74">"Code code, cars & caffeine—never slowing down"</span>
 };
-
 </code>
 </pre>
-
     npx vishnupriyan
   </tr>
 </table>
