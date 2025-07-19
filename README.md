@@ -118,7 +118,6 @@ const vishnu = {
 <p align="center">
   <a href="mailto:priyanv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/vishnupriyan-p-r"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/vishnupriyanpr"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X/Twitter" /></a>
   <a href="https://vishnupriyan.dev"><img src="https://img.shields.io/badge/Portfolio-Coming_Soon-black?style=for-the-badge&logo=vercel" alt="Portfolio" /></a>
 
   
