@@ -24,7 +24,7 @@
     </td>
     <td>
 
-```yaml
+```env
 const vishnu = {
   pronouns: "He | Him",
   grind: ["AI", "Full‑Stack", "Machine Learning"],
