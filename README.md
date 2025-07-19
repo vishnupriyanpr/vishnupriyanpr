@@ -125,10 +125,8 @@ const vishnu = {
 
 </p>
 
-### ELSE
-{
-
-## Just put this 👇 in your CMD to connect with me :)
+##### ELSE {
+### Just put this 👇 in your CMD to connect with me :)
 ```bash
 npx vishnupriyan
 ```
