@@ -24,34 +24,34 @@
     </td>
     <td>
 
-<pre>
-<code>
-<span style="color:#f92672">const</span> <span style="color:#66d9ef">vishnu</span> = {
-  pronouns: <span style="color:#e6db74">"He | Him"</span>,
-  grind: [<span style="color:#e6db74">"AI"</span>, <span style="color:#e6db74">"Full‑Stack"</span>, <span style="color:#e6db74">"Machine Learning"</span>],
-  languages: [<span style="color:#e6db74">"Python"</span>, <span style="color:#e6db74">"C"</span>, <span style="color:#e6db74">"C++"</span>, <span style="color:#e6db74">"Dart/Flutter"</span>],
-  passions: [<span style="color:#e6db74">"AI for healthcare"</span>, <span style="color:#e6db74">"EV mods"</span>, <span style="color:#e6db74">"Learning new Tech"</span>, <span style="color:#e6db74">"Car Tech"</span>],
+```yaml
+const vishnu = {
+  pronouns: "He | Him",
+  grind: ["AI", "Full‑Stack", "Machine Learning"],
+  languages: ["Python", "C", "C++", "Dart/Flutter"],
+  passions: ["AI for healthcare", "EV mods", "Learning new Tech", "Car Tech"],
   stack: {
     AI_ML: {
-      frameworks: [<span style="color:#e6db74">"TensorFlow"</span>, <span style="color:#e6db74">"PyTorch"</span>, <span style="color:#e6db74">"LangChain"</span>],
-      tools: [<span style="color:#e6db74">"HuggingFace"</span>, <span style="color:#e6db74">"OpenCV"</span>, <span style="color:#e6db74">"YOLO"</span>]
+      frameworks: ["TensorFlow", "PyTorch", "LangChain"],
+      tools: ["HuggingFace", "OpenCV", "YOLO"]
     },
-    backend: [<span style="color:#e6db74">"Flask"</span>, <span style="color:#e6db74">"FastAPI"</span>, <span style="color:#e6db74">"PostgreSQL"</span>, <span style="color:#e6db74">"Redis"</span>, <span style="color:#e6db74">"GraphQL"</span>],
-    frontend: [<span style="color:#e6db74">"React"</span>, <span style="color:#e6db74">"Next.js"</span>, <span style="color:#e6db74">"Flutter"</span>, <span style="color:#e6db74">"Kotlin"</span>],
-    data_viz: [<span style="color:#e6db74">"pandas"</span>, <span style="color:#e6db74">"Plotly"</span>, <span style="color:#e6db74">"Streamlit"</span>, <span style="color:#e6db74">"Superset"</span>],
-    devops: [<span style="color:#e6db74">"Docker"</span>, <span style="color:#e6db74">"CI/CD"</span>, <span style="color:#e6db74">"GCP"</span>, <span style="color:#e6db74">"AWS"</span>, <span style="color:#e6db74">"Gradio"</span>, <span style="color:#e6db74">"Vercel"</span>]
+    backend: ["Flask", "FastAPI", "PostgreSQL", "Redis", "GraphQL"],
+    frontend: ["React", "Next.js", "Flutter", "Kotlin"],
+    data_viz: ["pandas", "Plotly", "Streamlit", "Superset"],
+    devops: ["Docker", "CI/CD", "GCP", "AWS", "Gradio", "Vercel"]
   },
   buildPhilosophy: [
-    <span style="color:#e6db74">"From mockups to models — one continuum"</span>,
-    <span style="color:#e6db74">"Every idea starts with friction"</span>,
-    <span style="color:#e6db74">"What's the value with bags of money, when your Heart is empty ?"</span>
+    "From mockups to models — one continuum",
+    "Every idea starts with friction",
+    "What's the value with bags of money, when your Heart is empty ?"
   ],
-  ride: <span style="color:#e6db74">"Dreaming AWD EV swap + ML traction control"</span>,
-  motto: <span style="color:#e6db74">"Code code, cars & caffeine—never slowing down"</span>
+  ride: "Dreaming AWD EV swap + ML traction control",
+  motto: "Code code, cars & caffeine—never slowing down"
 };
-</code>
-</pre>
+```
+```yaml
     npx vishnupriyan
+```
   </tr>
 </table>
 
