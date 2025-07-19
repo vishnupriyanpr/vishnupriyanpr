@@ -4,7 +4,7 @@
 
 <!-- Vishnupriyan P R's GitHub Profile README -->
 
-<h1 align="center">Hey, I'm Vishnupriyan P R 👋</h1>
+<h1 align="center">Hallo, I'm Vishnupriyan P R 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=AI+Engineer+%7C+Tech+Builder+%7C+Gamer+%7C+Car+Nerd;Code%2C+cars%2C+and+caffeine+kept+me+going.+I+just+never+slowed+down;Building+Bold+Projects+With+Purpose.;Turning+AI+Concepts+Into+Impact.;Fueled+by+Curiosity+%2B+Code+%2B+Clean+Designs" alt="Typing animation" />
@@ -14,27 +14,8 @@
 
 ---
 
-## Systems I’ve Set in Motion 🚀⚙️ 
-
-- **OXOCARE (🏆 Hackathon Winner)** – OCR-first vault that secures & summarizes medical records with AI.  
-  `OpenCV · Tesseract · LangChain · AES-256 · Flask`
-  
-- **Verve** – AI-powered mobile assistant helping chronic-illness warriors manage meds & vitals.  
-  `Flutter · FastAPI · Transformers · LangChain`
-
-- **Cardiac‑Care** – Heart‑health suite featuring ECG ML, triage chatbot, and real‑time alerts.  
-  `React · Flask · TensorFlow · Twilio`
-
-- **AI Medical Report Summarizer** – Upload PDFs/images → receive concise AI‑generated summaries.  
-  `OCR · HuggingFace · Flask · BERT`
-
-- **PharmaScan** –  Medicine‑strip scanner powered by **Gemini AI** — snap a pic and identify medicines instantly, no typing or guesswork.  
-  `Flutter · Gemini Pro Vision · FastAPI · OpenCV`
-
-
 <p></p>
-<br>
-</br>
+
 
 ##  About ME :) 
 
@@ -75,13 +56,19 @@ const vishnu = {
 ## My Stats 💻📈
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishnupriyanpr183207&show_icons=true&theme=radical&count_private=true" height="150" />
-  <img src="https://streak-stats.demolab.com?user=vishnupriyanpr183207&theme=radical&hide_border=true" height="150" />
-
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=vishnupriyanpr183207&show_icons=true&theme=blueberry&count_private=true" height="150" />
+  <img src="https://streak-stats.demolab.com?user=vishnupriyanpr183207&theme=blueberry&hide_border=true" height="150" />
 
 </p>
 
+<p align="center">
+  <a href="https://leetcode.com/u/jTixpIbM2z/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="https://www.hackerrank.com/vishnupriyan_pr2">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
+  </a>
+</p>
 <br></br>
 
 
@@ -134,12 +121,7 @@ const vishnu = {
   <a href="https://twitter.com/vishnupriyanpr"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X/Twitter" /></a>
   <a href="https://vishnupriyan.dev"><img src="https://img.shields.io/badge/Portfolio-Coming_Soon-black?style=for-the-badge&logo=vercel" alt="Portfolio" /></a>
 
-  <a href="https://leetcode.com/u/jTixpIbM2z/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-  <a href="https://www.hackerrank.com/vishnupriyan_pr2">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
-  </a>
+  
 
 </p>
 
