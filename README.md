@@ -55,7 +55,7 @@
 </code>
 </pre>
 
-    </td>
+    npx vishnupriyan
   </tr>
 </table>
 
