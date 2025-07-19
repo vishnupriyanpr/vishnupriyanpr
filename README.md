@@ -1,8 +1,8 @@
 <!-- ████████████████████████████████████████████████████████████ -->
-<!-- 🤖 WELCOME TO MY GITHUB PROFILE README (auto-generated)     -->
+<!-- 🤖 WELCOME TO MY GITHUB PROFILE README    -->
 <!-- ████████████████████████████████████████████████████████████ -->
 
-<!-- Vishnupriyan P R's GitHub Profile README -->
+<!-- My GitHub Profile README -->
 
 <h1 align="center">Hallo, I'm Vishnupriyan P R 👋</h1>
 
@@ -38,7 +38,7 @@ const vishnu = {
   buildPhilosophy: [
     "From mockups to models — one continuum",
     "Every idea starts with friction",
-    "Shipping what matters, not just fast"
+    "What's the value with bags of money, when your Heart is empty ?"
   ],
   ride: "Dreaming AWD EV swap + ML traction control",
   motto: "Code code, cars & caffeine—never slowing down"
