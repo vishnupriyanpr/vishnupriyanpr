@@ -62,7 +62,6 @@
 
   
 
-<br></br>
 
 
 
@@ -86,7 +85,7 @@
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
   </a>
 </p>
-<br></br>
+
 
 
 
@@ -124,7 +123,6 @@
 
 
 
-<br></br>
 
 
 
