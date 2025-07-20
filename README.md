@@ -36,7 +36,7 @@ const vishnu = {
       tools: ["HuggingFace", "OpenCV", "YOLO"]
     },
     backend: ["Flask", "FastAPI", "PostgreSQL", "Redis", "GraphQL"],
-    frontend: ["React", "Next.js", "Flutter", "Kotlin"],
+    frontend: ["Node.js", "Flutter", "Kotlin"],
     data_viz: ["pandas", "Plotly", "Streamlit", "Superset"],
     devops: ["Docker", "CI/CD", "GCP", "AWS", "Gradio", "Vercel"]
   },
