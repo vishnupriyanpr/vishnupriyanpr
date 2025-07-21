@@ -82,8 +82,8 @@ const vishnu = {
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
   </a>
 </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=vishnupriyanpr183207&theme=nord&column=7)](https://github.com/vishnupriyanpr183207/github-profile-trophy)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=vishnupriyanpr183207&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
