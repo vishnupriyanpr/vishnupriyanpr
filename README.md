@@ -71,6 +71,7 @@ const vishnu = {
   <img src="https://github-readme-stats.vercel.app/api?username=vishnupriyanpr183207&show_icons=true&theme=blueberry&count_private=true" height="150" />
   <img src="https://streak-stats.demolab.com?user=vishnupriyanpr183207&theme=blueberry&hide_border=true" height="150" />
 
+
 </p>
 
 <p align="center">
@@ -81,7 +82,7 @@ const vishnu = {
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
   </a>
 </p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=vishnupriyanpr183207&theme=nord&column=7)](https://github.com/vishnupriyanpr183207/github-profile-trophy)
 
 
 
