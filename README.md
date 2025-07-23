@@ -68,8 +68,8 @@ const vishnu = {
 ## My Stats 💻📈
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishnupriyanpr183207&show_icons=true&theme=blueberry&count_private=true" height="130" />
-  <img src="https://streak-stats.demolab.com?user=vishnupriyanpr183207&theme=blueberry&hide_border=true" height="135" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vishnupriyanpr183207&show_icons=true&theme=blueberry&count_private=true" height="150" />
+  <img src="https://streak-stats.demolab.com?user=vishnupriyanpr183207&theme=blueberry&hide_border=true" height="150" />
 
 
 </p>
@@ -82,15 +82,21 @@ const vishnu = {
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
   </a>
 </p>
+<p align="center">
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=vishnupriyanpr183207&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+  
+</p>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vishnupriyanpr183207&theme=nord&column=9)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
 
 
 
+<br></br>
 
 
 
