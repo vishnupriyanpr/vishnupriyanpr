@@ -69,7 +69,7 @@ const vishnu = {
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vishnupriyanpr183207&show_icons=true&theme=blueberry&count_private=true" height="130" />
-  <img src="https://streak-stats.demolab.com?user=vishnupriyanpr183207&theme=blueberry&hide_border=true" height="130" />
+  <img src="https://streak-stats.demolab.com?user=vishnupriyanpr183207&theme=blueberry&hide_border=true" height="135" />
 
 
 </p>
