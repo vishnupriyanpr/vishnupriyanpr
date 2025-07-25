@@ -28,16 +28,16 @@
 const vishnu = {
   pronouns: "He | Him",
   grind: ["AI", "Full‑Stack", "Machine Learning"],
-  languages: ["Python", "C", "C++", "Dart/Flutter"],
-  passions: ["AI for healthcare", "EV mods", "Learning new Tech", "Car Tech"],
+  languages: ["Python", "C", "C++"],
+  passions: ["AI for healthcare", "EV mods", "Learning new Tech", "Car Tech", "Training AI Models"],
   stack: {
     AI_ML: {
       frameworks: ["TensorFlow", "PyTorch"],
       tools: ["HuggingFace", "OpenCV"]
     },
     backend: ["Flask", "FastAPI", "PostgreSQL", "Redis", "GraphQL"],
-    frontend: ["Node.js", "Flutter", "Kotlin"],
-    data_viz: ["pandas", "Plotly", "Streamlit", "Superset"],
+    frontend: ["Node.js", "Flutter", "Kotlin","Html/CSS"],
+    data_viz: ["pandas", "Plotly", "Streamlit"],
     devops: ["Docker", "CI/CD", "GCP", "AWS", "Gradio", "Vercel"]
   },
   buildPhilosophy: [
