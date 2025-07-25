@@ -32,8 +32,8 @@ const vishnu = {
   passions: ["AI for healthcare", "EV mods", "Learning new Tech", "Car Tech"],
   stack: {
     AI_ML: {
-      frameworks: ["TensorFlow", "PyTorch", "LangChain"],
-      tools: ["HuggingFace", "OpenCV", "YOLO"]
+      frameworks: ["TensorFlow", "PyTorch"],
+      tools: ["HuggingFace", "OpenCV"]
     },
     backend: ["Flask", "FastAPI", "PostgreSQL", "Redis", "GraphQL"],
     frontend: ["Node.js", "Flutter", "Kotlin"],
