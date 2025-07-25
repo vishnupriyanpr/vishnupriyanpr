@@ -29,7 +29,7 @@ const vishnu = {
   pronouns: "He | Him",
   grind: ["AI", "Full‑Stack", "Machine Learning"],
   languages: ["Python", "C", "C++"],
-  passions: ["AI for modern era", "Learning new Tech", "Ex"],
+  passions: ["Training AI Models", "Learning new Tech"....],
   stack: {
     AI_ML: {
       frameworks: ["TensorFlow", "PyTorch"],
