@@ -76,15 +76,16 @@ const vishnu = {
 
 <p align="center">
   <a href="https://leetcode.com/u/jTixpIbM2z/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?&logo=leetcode&logoColor=white" alt="LeetCode" width="100"/>
   </a>
+  
   <a href="https://www.hackerrank.com/vishnupriyan_pr2">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?&logo=HackerRank&logoColor=white" alt="HackerRank" width="120"/>
   </a>
 </p>
 <p align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vishnupriyanpr&theme=onedark&column=9&margin-w=15&margin-h=19&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vishnupriyanpr&theme=onedark&column=9&margin-w=18&margin-h=24&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
 
@@ -101,12 +102,9 @@ const vishnu = {
 ##  Connect With Me 🤝
 
 <p align="center">
-  <a href="mailto:priyanv@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/vishnupriyan-p-r"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://vishnupriyan.dev"><img src="https://img.shields.io/badge/Portfolio-Coming_Soon-black?style=for-the-badge&logo=vercel" alt="Portfolio" /></a>
-
-  
-
+  <a href="mailto:priyanv@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?&logo=Gmail&logoColor=white" alt="Gmail" width="90"/></a>
+  <a href="https://www.linkedin.com/in/vishnupriyan-p-r"><img src="https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white" alt="LinkedIn" width="90"/></a>
+  <a href="https://vishnupriyan.dev"><img src="https://img.shields.io/badge/Portfolio-Coming_Soon-black?&logo=vercel" alt="Portfolio" width="235"/></a>
 </p>
 
 
