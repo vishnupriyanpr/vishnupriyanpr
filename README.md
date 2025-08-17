@@ -45,7 +45,7 @@ const vishnu = {
     "Every idea starts with friction",
     "What's the value with bags of money, when your Heart is empty ?"
   ],
-  ride: "Dreaming AWD EV swap + ML traction control",
+  ride: "Code. Create. Break limits. Repeat.",
   motto: "Code code, cars & caffeine—never slowing down"
 };
 ```
