@@ -42,7 +42,7 @@ const vishnu = {
   passions: ["Training AI Models", "Learning new Tech"....],
   stack: {
     AI_ML: {
-      frameworks: ["TensorFlow", "PyTorch"],
+      frameworks: ["TensorFlow", "PyTorch", "LangChain"],
       tools: ["HuggingFace", "OpenCV"]
     },
     backend: ["Flask", "FastAPI"],
@@ -94,15 +94,22 @@ const vishnu = {
   </a>
 </p>
 <p align="center">
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=vishnupriyanpr&theme=onedark&column=9&margin-w=18&margin-h=24&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vishnupriyanpr&theme=onedark&column=9&margin-w=18&margin-h=24&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
 
-
-
-
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,dart,kotlin,flutter,html,css,nodejs" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,fastapi,git,github,docker,aws,vercel,gcp,opencv" />
+  </a>
+</p>
 
 
 <br></br>
