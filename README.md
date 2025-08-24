@@ -103,12 +103,12 @@ const vishnu = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,dart,kotlin,flutter,html,css,nodejs" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,dart,kotlin,flutter,html,css,nodejs,firebase" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,fastapi,git,github,docker,aws,vercel,gcp,opencv" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,fastapi,git,github,docker,aws,vercel,gcp,opencv,npm" />
   </a>
 </p>
 
