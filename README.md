@@ -30,7 +30,7 @@
 <table>
   <tr>
     <td>
-     <img width= "655" height = "856" alt="Screenshot 2025-07-21 121221" src="https://github.com/user-attachments/assets/69fc8dda-cecd-4fa4-ba7f-2ce38ac678e3" />
+     <img width= "655" height = "856" alt="Screenshot 2025-07-21 121221" src="https://github.com/user-attachments/assets/41e1d291-2bf0-4628-b969-76ffe3cb16ff" />
     </td>
     <td>
 
