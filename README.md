@@ -121,7 +121,7 @@ const vishnu = {
 <p align="center">
   <a href="mailto:priyanv@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?&logo=Gmail&logoColor=white" alt="Gmail" width="90"/></a>
   <a href="https://www.linkedin.com/in/vishnupriyan-p-r"><img src="https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white" alt="LinkedIn" width="90"/></a>
-  <a href="https://vishnupriyan.dev"><img src="https://img.shields.io/badge/Portfolio-Coming_Soon-black?&logo=vercel" alt="Portfolio" width="235"/></a>
+  <a href="https://vishnupriyan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-black?&logo=vercel" alt="Portfolio" width="110"/></a>
 </p>
 
 
@@ -146,7 +146,7 @@ npx vishnupriyan
 <!-- ![Banner](link-to-your-banner.png) -->
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=vishnupriyanpr183207.readme" alt="Visitor badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=vishnupriyanpr.readme" alt="Visitor badge"/>
 
   
 </p>
