@@ -73,11 +73,12 @@ const vishnu = {
 
 
 
-## My Stats 💻📈
+## My Stats 💻
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishnupriyanpr&show_icons=true&theme=blueberry&count_private=true" height="150" />
-  <img src="https://streak-stats.demolab.com?user=vishnupriyanpr&theme=blueberry&hide_border=true" height="150" />
+  <img width=380 src="https://github-readme-stats.vercel.app/api?username=vishnupriyanpr&show_icons=true&theme=blueberry&hide_border=true&count_private=true"  />
+  <img  width=400 src="https://nirzak-streak-stats.vercel.app/?user=vishnupriyanpr&theme=blueberry&hide_border=true" alt="Vishnu's Readme Streak" />
+
 
 
 </p>
@@ -94,10 +95,12 @@ const vishnu = {
 
 <p align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=vishnupriyanpr&theme=onedark&column=9&margin-w=18&margin-h=24&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://nirzak-trophies.vercel.app/?username=vishnupriyanpr&theme=onedark&column=9&margin-w=18&margin-h=24&no-bg=true)](https://github.com/Nirzak/github-trophies-self-deploy)
 
 </p>
+<br></br>
 
+## I Work on :
 
 
 <p align="center">
@@ -110,6 +113,7 @@ const vishnu = {
     <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,fastapi,git,github,docker,aws,vercel,gcp,opencv,npm" />
   </a>
 </p>
+
 ---
 
 
@@ -119,7 +123,7 @@ const vishnu = {
 <p align="center">
   <a href="mailto:priyanv@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?&logo=Gmail&logoColor=white" alt="Gmail" width="90"/></a>
   <a href="https://www.linkedin.com/in/vishnupriyan-p-r"><img src="https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white" alt="LinkedIn" width="90"/></a>
-  <a href="https://vishnupriyan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-black?&logo=vercel" alt="Portfolio" width="110"/></a>
+  <a href="https://vishnupriyan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-black?&logo=vercel" alt="Portfolio" width="120"/></a>
 </p>
 
 
