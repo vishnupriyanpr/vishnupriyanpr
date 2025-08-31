@@ -114,7 +114,7 @@ const vishnu = {
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,fastapi,git,github,docker,aws,vercel,gcp,opencv,npm" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,fastapi,git,github,docker,aws,vercel,gcp,mysql,npm" />
   </a>
 </p>
 
