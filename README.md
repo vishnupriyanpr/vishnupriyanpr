@@ -17,7 +17,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-png.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=AI+Engineer+%7C+Tech+Builder+%7C+Gamer+%7C+Car+Nerd;Code%2C+cars%2C+and+caffeine+kept+me+going.+I+just+never+slowed+down;Building+Bold+Projects+With+Purpose.;Turning+AI+Concepts+Into+Impact.;Fueled+by+Curiosity+%2B+Code+%2B+Clean+Designs" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=AI+Engineer+%7C+Tech+Builder+%7C+Gamer+%7C+Car+Nerd;Code%2C+cars%2C+and+caffeine+kept+me+going.+I+just+never+slowed+down;Building+Bold+Projects+With+Purpose.;Turning+AI+Concepts+Into+Impact.;Fueled+by+Curiosity+%2B+Code+%2B+Clean+Designs" alt="Typing animation" />
 </p>
 
 
@@ -77,8 +77,8 @@ const vishnu = {
 
 
 <p align="center">
-  <img width=480 src="https://github-readme-stats.vercel.app/api?username=vishnupriyanpr&show_icons=true&theme=blueberry&hide_border=true&count_private=true"  />
-  <img  width=500 src="https://nirzak-streak-stats.vercel.app/?user=vishnupriyanpr&theme=blueberry&hide_border=true" alt="Vishnu's Readme Streak" />
+  <img width=380 src="https://github-readme-stats.vercel.app/api?username=vishnupriyanpr&show_icons=true&theme=blueberry&hide_border=true&count_private=true"  />
+  <img  width=400 src="https://nirzak-streak-stats.vercel.app/?user=vishnupriyanpr&theme=blueberry&hide_border=true" alt="Vishnu's Readme Streak" />
 
 
 
