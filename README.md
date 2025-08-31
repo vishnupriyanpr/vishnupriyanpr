@@ -77,7 +77,7 @@ const vishnu = {
 
 
 <p align="center">
-  <img width=380 src="https://github-readme-stats.vercel.app/api?username=vishnupriyanpr&show_icons=true&theme=blueberry&hide_border=true&count_private=true"  />
+  <img width=380 src="https://github-readme-stats.vercel.app/api?username=vishnupriyanpr&rank_icon=github&show_icons=true&theme=blueberry&hide_border=true&count_private=true"  />
   <img  width=400 src="https://nirzak-streak-stats.vercel.app/?user=vishnupriyanpr&theme=blueberry&hide_border=true" alt="Vishnu's Readme Streak" />
 
 
@@ -89,16 +89,6 @@ const vishnu = {
   
   [![trophy](https://nirzak-trophies.vercel.app/?username=vishnupriyanpr&theme=algolia&column=9&margin-w=18&margin-h=24&no-bg=true)](https://github.com/Nirzak/github-trophies-self-deploy)
 
-</p>
-<p align="center">
-  <a href="https://leetcode.com/u/jTixpIbM2z/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?&logo=leetcode&logoColor=white" alt="LeetCode" width="100"/>
-  </a>
-  
-  <a href="https://www.hackerrank.com/vishnupriyan_pr2">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?&logo=HackerRank&logoColor=white" alt="HackerRank" width="120"/>
-  </a>
-</p>
 
 
 <br>
