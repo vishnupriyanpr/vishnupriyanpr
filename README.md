@@ -75,14 +75,21 @@ const vishnu = {
 
 ## My Stats 💻
 
+
 <p align="center">
-  <img width=380 src="https://github-readme-stats.vercel.app/api?username=vishnupriyanpr&show_icons=true&theme=blueberry&hide_border=true&count_private=true"  />
-  <img  width=400 src="https://nirzak-streak-stats.vercel.app/?user=vishnupriyanpr&theme=blueberry&hide_border=true" alt="Vishnu's Readme Streak" />
+  <img width=480 src="https://github-readme-stats.vercel.app/api?username=vishnupriyanpr&show_icons=true&theme=blueberry&hide_border=true&count_private=true"  />
+  <img  width=500 src="https://nirzak-streak-stats.vercel.app/?user=vishnupriyanpr&theme=blueberry&hide_border=true" alt="Vishnu's Readme Streak" />
 
 
 
 </p>
 
+
+<p align="center">
+  
+  [![trophy](https://nirzak-trophies.vercel.app/?username=vishnupriyanpr&theme=algolia&column=9&margin-w=18&margin-h=24&no-bg=true)](https://github.com/Nirzak/github-trophies-self-deploy)
+
+</p>
 <p align="center">
   <a href="https://leetcode.com/u/jTixpIbM2z/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?&logo=leetcode&logoColor=white" alt="LeetCode" width="100"/>
@@ -93,11 +100,8 @@ const vishnu = {
   </a>
 </p>
 
-<p align="center">
-  
-  [![trophy](https://nirzak-trophies.vercel.app/?username=vishnupriyanpr&theme=algolia&column=9&margin-w=18&margin-h=24&no-bg=true)](https://github.com/Nirzak/github-trophies-self-deploy)
 
-</p>
+<br>
 
 
 ## I Work on :
@@ -142,7 +146,8 @@ npx vishnupriyan
 
 
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <!-- Banner placeholder -->
 <!-- ![Banner](link-to-your-banner.png) -->
