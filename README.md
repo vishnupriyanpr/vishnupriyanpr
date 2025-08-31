@@ -95,7 +95,7 @@ const vishnu = {
 
 <p align="center">
   
-  [![trophy](https://nirzak-trophies.vercel.app/?username=vishnupriyanpr&theme=onedark&column=9&margin-w=18&margin-h=24&no-bg=true)](https://github.com/Nirzak/github-trophies-self-deploy)
+  [![trophy](https://nirzak-trophies.vercel.app/?username=vishnupriyanpr&theme=algolia&column=9&margin-w=18&margin-h=24&no-bg=true)](https://github.com/Nirzak/github-trophies-self-deploy)
 
 </p>
 
