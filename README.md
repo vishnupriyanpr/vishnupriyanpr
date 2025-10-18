@@ -132,7 +132,7 @@ const vishnu = {
   </a>  
   
   <!-- Instagram -->
-  <a href="https://instagram.com/vishnu_priyan_03" target="_blank">
+  <a href="https://instagram.com/vishnupriyan_pr" target="_blank">
     <img src="svg/social/instagram.svg" alt="Instagram Profile" style="vertical-align:top; margin:6px 4px">
   </a>
   
