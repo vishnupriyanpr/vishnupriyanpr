@@ -13,7 +13,7 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: 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
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
           ### CUSTOMIZATION OPTIONS ###
           # Change the TIME_ZONE to your own
