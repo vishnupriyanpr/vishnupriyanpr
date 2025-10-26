@@ -17,7 +17,6 @@ jobs:
 
           ### CUSTOMIZATION OPTIONS ###
           # Change the TIME_ZONE to your own
-          TIME_ZONE: Asia/Kolkata
           SHOW_TIMEZONE: true
           SHOW_TOTAL_CODE_TIME: true
           SHOW_PROFILE_VIEWS: false
