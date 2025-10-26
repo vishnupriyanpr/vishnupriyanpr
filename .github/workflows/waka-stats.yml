@@ -1,5 +1,6 @@
 name: Waka Readme Stats
-
+permissions:
+  contents: write # Allow write access to repository contents
 on:
   workflow_dispatch: # Allows you to run this workflow manually
   schedule:
