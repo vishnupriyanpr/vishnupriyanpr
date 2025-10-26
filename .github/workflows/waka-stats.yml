@@ -1,0 +1,30 @@
+name: Waka Readme Stats
+
+on:
+  workflow_dispatch: # Allows you to run this workflow manually
+  schedule:
+    - cron: '0 0 * * *' # Runs at midnight UTC every day
+
+jobs:
+  update-readme:
+    name: Update Readme with Waka Stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: waka_b9dc8c0e-6611-4b7b-8fbc-3a24528022e7
+          GH_TOKEN: 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
+
+          ### CUSTOMIZATION OPTIONS ###
+          # Change the TIME_ZONE to your own
+          TIME_ZONE: Asia/Kolkata
+          SHOW_TIMEZONE: true
+          SHOW_TOTAL_CODE_TIME: true
+          SHOW_PROFILE_VIEWS: false
+          SHOW_DAYS_OF_WEEK: true
+          SHOW_COMMIT: true # This shows the "Night guy" section
+          SHOW_EDITORS: true
+          SHOW_OS: true
+          SHOW_PROJECTS: false
+          SHOW_LANGUAGE: true
+          SHOW_LINES_OF_CODE: false
