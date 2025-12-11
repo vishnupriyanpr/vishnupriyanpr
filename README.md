@@ -78,7 +78,7 @@ const vishnu = {
 
 
 <p align="center">
-  <img width=380 src="https://github-readme-stats.vercel.app/api?username=vishnupriyanpr&rank_icon=github&show_icons=true&theme=algolia&hide_border=false&count_private=true"  />
+  <img width=380 src="https://github-readme-stats-vishnu.vercel.app/api?username=vishnupriyanpr&rank_icon=github&show_icons=true&theme=algolia&hide_border=false&count_private=true"  />
   <img  width=400 src="https://nirzak-streak-stats.vercel.app/?user=vishnupriyanpr&theme=algolia&hide_border=false" alt="Vishnu's Readme Streak" />
 
 
