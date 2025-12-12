@@ -74,7 +74,7 @@ const vishnu = {
 
 
 
-## My Stats 💻
+## My Stats 
 
 
 <p align="center">
@@ -145,7 +145,7 @@ Windows                  1 hr 57 mins        ███████████�
 
 
 
-##  Connect With Me 🤝
+##  Connect With Me 
 
 
 <p align="center">
