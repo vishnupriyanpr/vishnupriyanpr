@@ -95,6 +95,31 @@ const vishnu = {
 <br>
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                290 commits         █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
+🌆 Daytime                515 commits         ████████░░░░░░░░░░░░░░░░░   33.73 % 
+🌃 Evening                567 commits         █████████░░░░░░░░░░░░░░░░   37.13 % 
+🌙 Night                  155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 
 <!--END_SECTION:waka-->
 
