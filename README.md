@@ -132,12 +132,12 @@ Windows                  1 hr 30 mins        ███████████�
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,dart,kotlin,flutter,html,css,nodejs,firebase" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,dart,kotlin,flutter,html,css,nodejs,fastapi" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,fastapi,git,github,docker,aws,vercel,kubernetes,mysql,npm" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,n8n,ollama,git,github,docker,aws,vercel,mysql,npm" />
   </a>
 </p>
 
