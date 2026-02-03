@@ -131,12 +131,12 @@ Windows                  1 hr 30 mins        ███████████�
 
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://skill-icons-fast.vercel.app">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,java,dart,kotlin,flutter,html,css,nodejs,fastapi" />
   </a>
 </p>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://skill-icons-fast.vercel.app">
     <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,n8n,ollama,git,github,docker,aws,vercel,mysql,npm" />
   </a>
 </p>
