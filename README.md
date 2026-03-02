@@ -98,10 +98,10 @@ const vishnu = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                304 commits         █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
-🌆 Daytime                563 commits         █████████░░░░░░░░░░░░░░░░   34.75 % 
-🌃 Evening                588 commits         █████████░░░░░░░░░░░░░░░░   36.30 % 
-🌙 Night                  165 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+🌞 Morning                304 commits         █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
+🌆 Daytime                565 commits         █████████░░░░░░░░░░░░░░░░   34.81 % 
+🌃 Evening                588 commits         █████████░░░░░░░░░░░░░░░░   36.23 % 
+🌙 Night                  166 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
 ```
 
 
@@ -111,18 +111,18 @@ const vishnu = {
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               4 hrs 15 mins       ██████████████░░░░░░░░░░░   55.06 % 
-Markdown                 1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-HTML                     48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-JavaScript               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+TypeScript               3 hrs 57 mins       █████████████░░░░░░░░░░░░   52.66 % 
+Markdown                 1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+HTML                     53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+Other                    27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+JavaScript               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
 
 🔥 Editors: 
-Antigravity              7 hrs 41 mins       █████████████████████████   99.29 % 
-VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Antigravity              7 hrs 28 mins       █████████████████████████   99.27 % 
+VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 
 💻 Operating System: 
-Windows                  7 hrs 44 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 
