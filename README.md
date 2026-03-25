@@ -111,13 +111,16 @@ const vishnu = {
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               23 mins             ███████████████░░░░░░░░░░   58.20 % 
+Markdown                 12 mins             ████████░░░░░░░░░░░░░░░░░   31.23 % 
+CSS                      3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Antigravity              39 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  39 mins             █████████████████████████   100.00 % 
 ```
 
 
