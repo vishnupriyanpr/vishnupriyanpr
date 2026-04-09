@@ -111,15 +111,14 @@ const vishnu = {
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               53 mins             ████████████████████████░   97.26 % 
-Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+TypeScript               25 mins             ████████████████████████░   94.56 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
 
 🔥 Editors: 
-Antigravity              55 mins             █████████████████████████   100.00 % 
+Antigravity              27 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  55 mins             █████████████████████████   100.00 % 
+Windows                  27 mins             █████████████████████████   100.00 % 
 ```
 
 
