@@ -24,12 +24,66 @@
 
 ---
 
+<p></p>
 
+
+##  About ME :) 
+<table>
+  <tr>
+    <td>
+     <img width= "755" height = "856" alt="Screenshot 2025-07-21 121221" src="https://github.com/user-attachments/assets/41e1d291-2bf0-4628-b969-76ffe3cb16ff" />
+    </td>
+    <td>
+
+```env
+const vishnu = {
+  pronouns: "He | Him",
+  grind: ["AI", "Full‑Stack", "Machine Learning"],
+  languages: ["Python", "C", "C++"],
+  passions: ["Training AI Models", "Learning new Tech"....],
+  stack: {
+    AI_ML: {
+      frameworks: ["TensorFlow", "PyTorch", "LangChain"],
+      tools: ["HuggingFace", "OpenCV"]
+    },
+    backend: ["Flask", "FastAPI"],
+    frontend: ["Node.js", "Flutter", "Kotlin","Html/CSS"],
+    data_viz: ["pandas", "Plotly", "Streamlit"],
+    devops: ["Docker", "CI/CD", "GCP", "AWS", "Gradio", "Vercel"]
+  },
+  buildPhilosophy: [
+    "From mockups to models — one continuum",
+    "Every idea starts with friction",
+    "What's the value with bags of money, when your Heart is empty ?"
+  ],
+  ride: "Code. Create. Break limits. Repeat.",
+  motto: "Code code, cars & caffeine—never slowing down"
+};
+```
+```yaml
+    npx vishnupriyan
+```
+  </tr>
+</table>
+
+
+  
+
+
+---
 
 
 
 ## My Stats 
 
+
+<p align="center">
+  <img width=380 src="https://github-readme-stats-vishnu.vercel.app/api?username=vishnupriyanpr&rank_icon=github&show_icons=true&theme=algolia&hide_border=false&count_private=true"  />
+  <img  width=400 src="https://nirzak-streak-stats.vercel.app/?user=vishnupriyanpr&theme=algolia&hide_border=false" alt="Vishnu's Readme Streak" />
+
+
+
+</p>
 
 
 <p align="center">
@@ -41,6 +95,18 @@
 <br>
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                311 commits         █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
+🌆 Daytime                576 commits         █████████░░░░░░░░░░░░░░░░   34.87 % 
+🌃 Evening                593 commits         █████████░░░░░░░░░░░░░░░░   35.90 % 
+🌙 Night                  172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
 ```text
 🕑︎ Time Zone: Asia/Kolkata
 
@@ -69,6 +135,11 @@ Windows                  2 mins              ███████████�
 
 ---
 
+
+
+##  Connect With Me 
+
+
 <p align="center">
   <!-- Portfolio -->
   <a href="https://vishnupriyan.vercel.app" target="_blank">
@@ -95,3 +166,28 @@ Windows                  2 mins              ███████████�
   </a>
 </p>
 
+
+##### ELSE {
+### Just put this 👇 in your CMD to connect with me :)
+```bash
+npx vishnupriyan
+```
+
+}
+<p></p>
+<p></p>
+
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+<!-- Banner placeholder -->
+<!-- ![Banner](link-to-your-banner.png) -->
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=vishnupriyanpr.readme" alt="Visitor badge"/>
+
+  
+</p>
