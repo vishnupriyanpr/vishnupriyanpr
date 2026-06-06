@@ -95,6 +95,36 @@ const vishnu = {
 <br>
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                311 commits         █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
+🌆 Daytime                576 commits         █████████░░░░░░░░░░░░░░░░   34.78 % 
+🌃 Evening                597 commits         █████████░░░░░░░░░░░░░░░░   36.05 % 
+🌙 Night                  172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+TypeScript               1 hr 35 mins        ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
+Markdown                 1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+JSON                     1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
+JavaScript               42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+YAML                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+
+🔥 Editors: 
+VS Code                  5 hrs 52 mins       █████████████████████░░░░   83.87 % 
+Claude Code              1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+
+💻 Operating System: 
+Windows                  6 hrs 59 mins       █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
 
