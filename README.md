@@ -98,10 +98,10 @@ const vishnu = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                311 commits         █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
-🌆 Daytime                576 commits         █████████░░░░░░░░░░░░░░░░   34.76 % 
-🌃 Evening                598 commits         █████████░░░░░░░░░░░░░░░░   36.09 % 
-🌙 Night                  172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+🌞 Morning                311 commits         █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+🌆 Daytime                577 commits         █████████░░░░░░░░░░░░░░░░   34.37 % 
+🌃 Evening                619 commits         █████████░░░░░░░░░░░░░░░░   36.87 % 
+🌙 Night                  172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
 ```
 
 
@@ -111,19 +111,19 @@ const vishnu = {
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 4 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   25.46 % 
-Other                    4 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
-Python                   2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-TypeScript               1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-Bash                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+Markdown                 7 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
+TypeScript               3 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Other                    3 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+Python                   2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+PowerShell               2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 58 mins      ██████████████████████░░░   89.23 % 
-Claude Code              1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-Codex CLI                43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+VS Code                  24 hrs 55 mins      ██████████████████████░░░   88.06 % 
+Claude Code              2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+Codex CLI                55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 
 💻 Operating System: 
-Windows                  16 hrs 46 mins      █████████████████████████   100.00 % 
+Windows                  28 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 
