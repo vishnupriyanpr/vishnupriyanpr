@@ -98,10 +98,10 @@ const vishnu = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                311 commits         █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
-🌆 Daytime                577 commits         █████████░░░░░░░░░░░░░░░░   34.32 % 
-🌃 Evening                619 commits         █████████░░░░░░░░░░░░░░░░   36.82 % 
-🌙 Night                  174 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+🌞 Morning                311 commits         █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
+🌆 Daytime                578 commits         █████████░░░░░░░░░░░░░░░░   34.32 % 
+🌃 Evening                619 commits         █████████░░░░░░░░░░░░░░░░   36.76 % 
+🌙 Night                  176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
 ```
 
 
@@ -111,18 +111,19 @@ const vishnu = {
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 8 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   28.56 % 
-Other                    4 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-Python                   4 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-TypeScript               4 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-PowerShell               2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+Markdown                 9 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   29.24 % 
+Other                    4 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Python                   4 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+TypeScript               3 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+PowerShell               2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
 
 🔥 Editors: 
-VS Code                  26 hrs 36 mins      ██████████████████████░░░   89.38 % 
-Claude Code              3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+VS Code                  28 hrs 16 mins      ██████████████████████░░░   89.19 % 
+Claude Code              3 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+Codex CLI                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 💻 Operating System: 
-Windows                  29 hrs 46 mins      █████████████████████████   100.00 % 
+Windows                  31 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 
