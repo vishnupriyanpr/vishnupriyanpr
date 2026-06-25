@@ -111,19 +111,19 @@ const vishnu = {
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               6 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   22.23 % 
-Markdown                 6 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
-Python                   4 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
-JavaScript               2 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-Other                    1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+TypeScript               7 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   25.72 % 
+Markdown                 4 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
+Python                   3 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+JavaScript               2 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+Other                    1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
 
 🔥 Editors: 
-Claude Code              20 hrs 7 mins       ████████████████░░░░░░░░░   64.77 % 
-VS Code                  10 hrs 38 mins      █████████░░░░░░░░░░░░░░░░   34.23 % 
-Codex CLI                18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Claude Code              21 hrs 10 mins      ███████████████████░░░░░░   76.92 % 
+VS Code                  6 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
+Codex CLI                18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 
 💻 Operating System: 
-Windows                  31 hrs 5 mins       █████████████████████████   100.00 % 
+Windows                  27 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 
