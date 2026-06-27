@@ -98,10 +98,10 @@ const vishnu = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                313 commits         █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
-🌆 Daytime                578 commits         █████████░░░░░░░░░░░░░░░░   34.24 % 
-🌃 Evening                621 commits         █████████░░░░░░░░░░░░░░░░   36.79 % 
-🌙 Night                  176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+🌞 Morning                313 commits         █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
+🌆 Daytime                578 commits         █████████░░░░░░░░░░░░░░░░   34.22 % 
+🌃 Evening                622 commits         █████████░░░░░░░░░░░░░░░░   36.83 % 
+🌙 Night                  176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
 ```
 
 
@@ -111,19 +111,19 @@ const vishnu = {
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               7 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   26.12 % 
-Markdown                 4 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
-Python                   3 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-JavaScript               2 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-Other                    1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+TypeScript               7 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   32.01 % 
+Markdown                 3 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Python                   2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+Other                    1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+JavaScript               1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
 
 🔥 Editors: 
-Claude Code              21 hrs 10 mins      ████████████████████░░░░░   78.12 % 
-VS Code                  5 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
-Codex CLI                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Claude Code              20 hrs 37 mins      ███████████████████████░░   93.22 % 
+VS Code                  1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+Antigravity CLI          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 
 💻 Operating System: 
-Windows                  27 hrs 6 mins       █████████████████████████   100.00 % 
+Windows                  22 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 
