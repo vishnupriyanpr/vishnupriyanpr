@@ -111,19 +111,19 @@ const vishnu = {
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               7 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   38.34 % 
-Markdown                 2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Other                    1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
-Docker                   1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-Python                   1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+TypeScript               4 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   33.18 % 
+HTML                     1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+Other                    1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Docker                   1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+Markdown                 1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
 
 🔥 Editors: 
-Claude Code              17 hrs 27 mins      ████████████████████████░   94.55 % 
-VS Code                  43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-Antigravity CLI          17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Claude Code              11 hrs 12 mins      █████████████████████░░░░   82.45 % 
+Antigravity CLI          1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+VS Code                  34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
 
 💻 Operating System: 
-Windows                  18 hrs 28 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 
