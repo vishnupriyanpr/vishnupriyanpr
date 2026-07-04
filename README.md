@@ -98,10 +98,10 @@ const vishnu = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                313 commits         █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
-🌆 Daytime                578 commits         █████████░░░░░░░░░░░░░░░░   34.22 % 
-🌃 Evening                622 commits         █████████░░░░░░░░░░░░░░░░   36.83 % 
-🌙 Night                  176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+🌞 Morning                313 commits         █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+🌆 Daytime                578 commits         █████████░░░░░░░░░░░░░░░░   34.20 % 
+🌃 Evening                623 commits         █████████░░░░░░░░░░░░░░░░   36.86 % 
+🌙 Night                  176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
 ```
 
 
@@ -111,19 +111,19 @@ const vishnu = {
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     1 hr 34 mins        █████████░░░░░░░░░░░░░░░░   37.43 % 
-Markdown                 41 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-CSS                      35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
-JavaScript               19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-Docker                   15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+HTML                     1 hr 22 mins        ████████░░░░░░░░░░░░░░░░░   33.88 % 
+Markdown                 41 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
+CSS                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+Other                    21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+JavaScript               19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
 
 🔥 Editors: 
-Antigravity CLI          3 hrs 22 mins       ████████████████████░░░░░   80.10 % 
-Antigravity IDE          34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-VS Code                  16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+Antigravity CLI          2 hrs 59 mins       ██████████████████░░░░░░░   73.38 % 
+Antigravity IDE          34 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+VS Code                  30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
 
 💻 Operating System: 
-Windows                  4 hrs 12 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 
