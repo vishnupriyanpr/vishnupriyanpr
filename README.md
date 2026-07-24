@@ -98,10 +98,10 @@ const vishnu = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                313 commits         █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-🌆 Daytime                578 commits         █████████░░░░░░░░░░░░░░░░   34.20 % 
-🌃 Evening                623 commits         █████████░░░░░░░░░░░░░░░░   36.86 % 
-🌙 Night                  176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+🌞 Morning                313 commits         █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
+🌆 Daytime                578 commits         █████████░░░░░░░░░░░░░░░░   34.22 % 
+🌃 Evening                622 commits         █████████░░░░░░░░░░░░░░░░   36.83 % 
+🌙 Night                  176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
 ```
 
 
@@ -111,18 +111,14 @@ const vishnu = {
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 10 mins        ████████████░░░░░░░░░░░░░   47.51 % 
-HTML                     30 mins             █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
-Markdown                 23 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-Python                   22 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+HTML                     42 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 16 mins        █████████████░░░░░░░░░░░░   51.17 % 
-Antigravity CLI          1 hr 12 mins        ████████████░░░░░░░░░░░░░   48.83 % 
+VS Code                  40 mins             ████████████████████████░   96.36 % 
+Codex CLI                1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
 
 💻 Operating System: 
-Windows                  2 hrs 29 mins       █████████████████████████   100.00 % 
+Windows                  42 mins             █████████████████████████   100.00 % 
 ```
 
 
