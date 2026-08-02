@@ -95,7 +95,7 @@ const vishnu = {
 <br>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-109%20hrs%208%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-109%20hrs%209%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
