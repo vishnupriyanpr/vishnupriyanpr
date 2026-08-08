@@ -95,6 +95,59 @@ const vishnu = {
 <br>
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-109%20hrs%2017%20mins-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                315 commits         █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
+🌆 Daytime                578 commits         █████████░░░░░░░░░░░░░░░░   34.18 % 
+🌃 Evening                622 commits         █████████░░░░░░░░░░░░░░░░   36.78 % 
+🌙 Night                  176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Python                   18 mins             ███████████████████░░░░░░   77.78 % 
+JSON                     5 mins              █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+
+🔥 Editors: 
+Claude Code              20 mins             ██████████████████████░░░   87.42 % 
+VS Code                  2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+
+💻 Operating System: 
+Windows                  23 mins             █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 23 mins (100.0%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 994,261 Input Tokens, 35,739 Output Tokens
+
+💵 $5.61 Estimated AI Cost This Week
+
+🧠 4 AI Sessions, 6 AI Prompts
+
+Opus                     83 lines            █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 133 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
 
 <!--END_SECTION:waka-->
 
