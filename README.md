@@ -113,39 +113,19 @@ const vishnu = {
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   18 mins             ███████████████████████░░   92.64 % 
-JSON                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              17 mins             ███████████████████████░░   90.59 % 
-VS Code                  1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 mins (100.0%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 870,397 Input Tokens, 35,298 Output Tokens
-
-💵 $5.09 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 2 AI Prompts
-
-Opus                     83 lines            █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 326 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
