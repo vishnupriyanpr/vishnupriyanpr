@@ -113,19 +113,43 @@ const vishnu = {
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   4 hrs 29 mins       █████████████░░░░░░░░░░░░   50.04 % 
+HTML                     1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
+TypeScript               1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+CSS                      41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+TeX                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Antigravity IDE          7 hrs 4 mins        ████████████████████░░░░░   78.82 % 
+Codex Vscode             1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+VS Code                  42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  8 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 8 hrs 54 mins (99.28%)
+
+✍️ 489 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 468,779 Input Tokens, 22,208 Output Tokens
+
+💵 $2.21 Estimated AI Cost This Week
+
+🧠 13 AI Sessions, 125 AI Prompts
+
+Sonnet                   493 lines           ██████████████████████░░░   89.64 % 
+Gemini                   57 lines            ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 2,036 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
