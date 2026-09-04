@@ -95,7 +95,7 @@ const vishnu = {
 <br>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-109%20hrs%2017%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-109%20hrs%2021%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -113,33 +113,32 @@ const vishnu = {
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   4 hrs 29 mins       █████████████░░░░░░░░░░░░   50.04 % 
-HTML                     1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
-TypeScript               1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-CSS                      41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
-TeX                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+Python                   4 hrs 27 mins       ████████████████░░░░░░░░░   64.63 % 
+TypeScript               1 hr 29 mins        █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
+CSS                      41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+HTML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
 
 🔥 Editors: 
-Antigravity IDE          7 hrs 4 mins        ████████████████████░░░░░   78.82 % 
-Codex Vscode             1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-VS Code                  42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+Antigravity IDE          6 hrs 31 mins       ████████████████████████░   94.64 % 
+VS Code                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+Codex Vscode             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 💻 Operating System: 
-Windows                  8 hrs 57 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 54 mins (99.28%)
+⏱ AI Coding Time: 6 hrs 49 mins (99.06%)
 
 ✍️ 489 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 468,779 Input Tokens, 22,208 Output Tokens
+🔤 160,801 Input Tokens, 3,037 Output Tokens
 
-💵 $2.21 Estimated AI Cost This Week
+💵 $0.54 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 125 AI Prompts
+🧠 6 AI Sessions, 92 AI Prompts
 
 Sonnet                   493 lines           ██████████████████████░░░   89.64 % 
 Gemini                   57 lines            ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
@@ -147,8 +146,8 @@ GPT                      0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,036 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
+📄 Detailed Prompter — average 625 characters per prompt
+🔁 Iterative Prompter — average 15 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
