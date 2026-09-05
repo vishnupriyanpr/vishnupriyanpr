@@ -113,41 +113,39 @@ const vishnu = {
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   4 hrs 27 mins       ████████████████░░░░░░░░░   64.63 % 
-TypeScript               1 hr 29 mins        █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
-CSS                      41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-HTML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+TypeScript               45 mins             ██████████░░░░░░░░░░░░░░░   39.45 % 
+CSS                      41 mins             █████████░░░░░░░░░░░░░░░░   36.59 % 
+Python                   26 mins             ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 
 🔥 Editors: 
-Antigravity IDE          6 hrs 31 mins       ████████████████████████░   94.64 % 
-VS Code                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-Codex Vscode             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Antigravity IDE          1 hr 46 mins        ███████████████████████░░   92.87 % 
+VS Code                  8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
 
 💻 Operating System: 
-Windows                  6 hrs 53 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 54 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 49 mins (99.06%)
+⏱ AI Coding Time: 1 hr 50 mins (96.6%)
 
-✍️ 489 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 236 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 160,801 Input Tokens, 3,037 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $0.54 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 92 AI Prompts
+🧠 3 AI Sessions, 20 AI Prompts
 
-Sonnet                   493 lines           ██████████████████████░░░   89.64 % 
-Gemini                   57 lines            ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   197 lines           ███████████████████░░░░░░   77.56 % 
+Gemini                   57 lines            ██████░░░░░░░░░░░░░░░░░░░   22.44 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 625 characters per prompt
-🔁 Iterative Prompter — average 15 prompts per session
+📄 Detailed Prompter — average 824 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
