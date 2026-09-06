@@ -35,6 +35,10 @@ jobs:
           SHOW_PROJECTS: false          # REMOVE: Hides project list (was already false)
           SHOW_LINES_OF_CODE: false     # REMOVE: Hides total lines of code (was already false)
 
+          # --- AI Stats Disablers ---
+          SHOW_AI_CODING: false         # REMOVE: Hides the "AI Coding This Week" breakdown and insights
+          SHOW_AI_CODE_TIME: false      # REMOVE: Hides the all-time "AI Code Time" badge
+
           # --- Other settings (usually leave as is) ---
           SECTION_NAME: waka            # Keep, matches your <!--START_SECTION:waka--> comments
           COMMIT_BY_ME: False           # Keep false unless you want commits from your user
