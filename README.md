@@ -95,7 +95,6 @@ const vishnu = {
 <br>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-109%20hrs%2021%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -124,29 +123,6 @@ VS Code                  8 mins              ██░░░░░░░░░�
 
 💻 Operating System: 
 Windows                  1 hr 54 mins        █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 1 hr 50 mins (96.6%)
-
-✍️ 236 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 20 AI Prompts
-
-Sonnet                   197 lines           ███████████████████░░░░░░   77.56 % 
-Gemini                   57 lines            ██████░░░░░░░░░░░░░░░░░░░   22.44 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 824 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
