@@ -111,18 +111,18 @@ const vishnu = {
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 19 mins        ███████████░░░░░░░░░░░░░░   42.84 % 
-JSON                     36 mins             █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
-JavaScript               32 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
-PowerShell               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-Git Config               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+JSON                     33 mins             ███████████░░░░░░░░░░░░░░   42.97 % 
+JavaScript               19 mins             ██████░░░░░░░░░░░░░░░░░░░   24.63 % 
+Git Config               12 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+Other                    8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+SQL                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
 
 🔥 Editors: 
-Antigravity IDE          2 hrs 44 mins       ██████████████████████░░░   88.51 % 
-VS Code                  21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+Antigravity IDE          57 mins             ██████████████████░░░░░░░   73.06 % 
+VS Code                  21 mins             ███████░░░░░░░░░░░░░░░░░░   26.94 % 
 
 💻 Operating System: 
-Windows                  3 hrs 5 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 19 mins        █████████████████████████   100.00 % 
 ```
 
 
