@@ -98,10 +98,10 @@ const vishnu = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                315 commits         █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
-🌆 Daytime                578 commits         ████████░░░░░░░░░░░░░░░░░   33.90 % 
-🌃 Evening                635 commits         █████████░░░░░░░░░░░░░░░░   37.24 % 
-🌙 Night                  177 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+🌞 Morning                315 commits         █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+🌆 Daytime                578 commits         ████████░░░░░░░░░░░░░░░░░   33.80 % 
+🌃 Evening                638 commits         █████████░░░░░░░░░░░░░░░░   37.31 % 
+🌙 Night                  179 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
 ```
 
 
@@ -111,18 +111,15 @@ const vishnu = {
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JSON                     33 mins             ███████████░░░░░░░░░░░░░░   42.97 % 
-JavaScript               19 mins             ██████░░░░░░░░░░░░░░░░░░░   24.63 % 
-Git Config               12 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-Other                    8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-SQL                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+Git Config               12 mins             ██████████████░░░░░░░░░░░   56.42 % 
+Other                    8 mins              ██████████░░░░░░░░░░░░░░░   41.46 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 
 🔥 Editors: 
-Antigravity IDE          57 mins             ██████████████████░░░░░░░   73.06 % 
-VS Code                  21 mins             ███████░░░░░░░░░░░░░░░░░░   26.94 % 
+VS Code                  21 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 19 mins        █████████████████████████   100.00 % 
+Windows                  21 mins             █████████████████████████   100.00 % 
 ```
 
 
