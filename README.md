@@ -98,10 +98,10 @@ const vishnu = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                315 commits         █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
-🌆 Daytime                578 commits         ████████░░░░░░░░░░░░░░░░░   33.68 % 
-🌃 Evening                644 commits         █████████░░░░░░░░░░░░░░░░   37.53 % 
-🌙 Night                  179 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+🌞 Morning                315 commits         █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
+🌆 Daytime                578 commits         ████████░░░░░░░░░░░░░░░░░   33.64 % 
+🌃 Evening                645 commits         █████████░░░░░░░░░░░░░░░░   37.54 % 
+🌙 Night                  180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
 ```
 
 
@@ -111,15 +111,15 @@ const vishnu = {
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    3 hrs 1 min         ████████████████░░░░░░░░░   63.28 % 
-Python                   1 hr 45 mins        █████████░░░░░░░░░░░░░░░░   36.72 % 
+Other                    1 hr 59 mins        █████████████░░░░░░░░░░░░   53.23 % 
+Python                   1 hr 45 mins        ████████████░░░░░░░░░░░░░   46.77 % 
 
 🔥 Editors: 
-Antigravity Desktop      4 hrs 37 mins       ████████████████████████░   96.64 % 
-VS Code                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+Antigravity Desktop      3 hrs 35 mins       ████████████████████████░   95.72 % 
+VS Code                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
 
 💻 Operating System: 
-Windows                  4 hrs 47 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 
