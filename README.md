@@ -111,13 +111,13 @@ const vishnu = {
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    4 hrs 54 mins       █████████████████████████   100.00 % 
+Other                    1 hr 7 mins         █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Antigravity Desktop      4 hrs 54 mins       █████████████████████████   100.00 % 
+Antigravity Desktop      1 hr 7 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 54 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
 
